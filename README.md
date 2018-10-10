@@ -15,3 +15,4 @@ CHANNEL: customersale Channel - Horeca (Hotel/Restaurant/Cafe) or Retail channel
 REGION: customersale Region - Lisnon, Oporto or Other (Nominal)
 
 
+=
