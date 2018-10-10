@@ -14,8 +14,7 @@ DELICATESSEN: annual spending (m.u.)on and delicatessen products (Continuous)
 CHANNEL: customersale Channel - Horeca (Hotel/Restaurant/Cafe) or Retail channel (Nominal)
 REGION: customersale Region - Lisnon, Oporto or Other (Nominal)
 
-FRESH: annual spending (m.u.) on fresh products (Continuous)                             
-
+FRESH: annual spending (m.u.) on fresh products (Continuous)                                                                               
 MILK: annual spending (m.u.) on milk products
 GROCERY: annual spending (m.u.) on grocery products.
 
