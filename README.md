@@ -4,7 +4,7 @@ Using the unsupervised technique of clustering on the given Wholesale Customer d
 
 Used the kMeans algorithm to derive customer insights.
 
-Data Description:
+Data Description:                                                                                                                         
 FRESH: annual spending (m.u.) on fresh products                                                                                           
 MILK: annual spending (m.u.) on milk products                                                                                             
 GROCERY: annual spending (m.u.)on grocery products                                                                                         
