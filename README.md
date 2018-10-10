@@ -8,9 +8,9 @@ Data Description:
 FRESH: annual spending (m.u.) on fresh products                                                                                           
 MILK: annual spending (m.u.) on milk products                                                                                             
 GROCERY: annual spending (m.u.)on grocery products                                                                                         
-FROZEN: annual spending (m.u.)on frozen products
-DETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products
-DELICATESSEN: annual spending (m.u.)on and delicatessen products.
-CHANNEL: customersale Channel - Horeca (Hotel/Restaurant/Cafe) or Retail channel
+FROZEN: annual spending (m.u.)on frozen products                                                                                           
+DETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products                                                                 
+DELICATESSEN: annual spending (m.u.)on and delicatessen products.                                                                         
+CHANNEL: customersale Channel - Horeca (Hotel/Restaurant/Cafe) or Retail channel                                                           
 REGION: customersale Region - Lisnon, Oporto or Other
 
